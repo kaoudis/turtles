@@ -1,0 +1,6 @@
+[submodule "left_turtle"]
+	path = left_turtle
+	url = https://github.com/jkbecker/turtles.git
+[submodule "right_turtle"]
+	path = right_turtle
+	url = https://github.com/kaoudis/turtles.git
